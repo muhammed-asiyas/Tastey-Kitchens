@@ -32,7 +32,7 @@ class Login extends Component {
           id="username"
           className="input"
           value={username}
-          placeholder="Username"
+          placeholder="rahul"
           onChange={this.onChangeUsername}
         />
       </>
@@ -51,7 +51,7 @@ class Login extends Component {
           id="password"
           className="input"
           value={password}
-          placeholder="Password"
+          placeholder="rahul@2021"
           onChange={this.onChangePassword}
         />
       </>
